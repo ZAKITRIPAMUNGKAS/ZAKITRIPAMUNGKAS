@@ -1,179 +1,129 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ZAKI%20TRI%20PAMUNGKAS&fontSize=42&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Founder%20•%20Creative%20Director&descFontSize=17&descAlignY=60&descAlign=50" width="100%" alt="Cyber Header" />
-
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF88&center=true&vCenter=true&width=620&height=50&lines=%3E_echo+'Hello+World!+I+build+scalable+systems';%3E_Founder+%26+Lead+Engineer+%40+gemala.dev;%3E_Creative+Director+%40+gemala.creative;%3E_Informatics+Engineer+%7C+Awardee+BU+2022;%3E_Bridging+Cyber+Logic+with+Visual+Excellence" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-
-  [![Beasiswa Unggulan](https://img.shields.io/badge/Awardee-Beasiswa%20Unggulan%202022-FFD700?style=for-the-badge&logo=google-scholar&logoColor=000000)](https://beasiswaunggulan.kemdikbud.go.id/)
-  [![UMS Informatics](https://img.shields.io/badge/Undergrad-Informatics%20Engineering%20'22-00E5FF?style=for-the-badge&logo=archlinux&logoColor=000000)](https://ums.ac.id)
-  [![gemala.dev](https://img.shields.io/badge/Founder-gemala.dev-00FF88?style=for-the-badge&logo=gnubash&logoColor=000000)](https://instagram.com/gemala.dev)
-  [![gemala.creative](https://img.shields.io/badge/Owner-gemala.creative-FF007F?style=for-the-badge&logo=adobe&logoColor=ffffff)](https://instagram.com/gemala.creative)
-  [![PMM Awardee](https://img.shields.io/badge/Exchange-PMM%203%20Manado-7928CA?style=for-the-badge&logo=spacex&logoColor=white)](https://program-pmm.kemdikbud.go.id/)
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=ZAKI%20TRI%20PAMUNGKAS&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20•%20Founder%20•%20Creative%20Director&descFontSize=16&descColor=7ee787&descAlignY=65" width="100%" alt="Header Banner" />
 
   <br/>
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=ZAKITRIPAMUNGKAS&style=flat-square&color=00ff88&label=SYSTEM+ACCESS+COUNT)](https://github.com/ZAKITRIPAMUNGKAS)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakitripamungkas)
-  [![Personal IG](https://img.shields.io/badge/Instagram-@zaki__tepe-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zaki_tepe)
-  [![gemala.dev IG](https://img.shields.io/badge/Instagram-@gemala.dev-00ff88?style=flat-square&logo=instagram&logoColor=black)](https://instagram.com/gemala.dev)
-  [![gemala.creative IG](https://img.shields.io/badge/Instagram-@gemala.creative-FF007F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gemala.creative)
-  [![YouTube](https://img.shields.io/badge/YouTube-@tepe.grafi-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@tepe.grafi)
-  [![TikTok](https://img.shields.io/badge/TikTok-@tepe__grafi-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@tepe_grafi)
-  [![Email](https://img.shields.io/badge/Email-zakitripamungkas03@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zakitripamungkas03@gmail.com)
+  <a href="https://github.com/ZAKITRIPAMUNGKAS">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=7EE787&center=true&vCenter=true&width=560&height=40&lines=Building+scalable+web+systems+%26+real-time+apps;Founder+%26+Lead+Engineer+at+gemala.dev;Creative+Director+at+gemala.creative;Awardee+Beasiswa+Unggulan+Kemendikbud+2022" alt="Typing SVG" />
+  </a>
 
+  <br/>
+
+  <p>
+    <a href="https://linkedin.com/in/zakitripamungkas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/zaki_tepe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Personal Instagram" /></a>
+    <a href="https://instagram.com/gemala.dev"><img src="https://img.shields.io/badge/gemala.dev-10B981?style=flat-square&logo=codeforces&logoColor=white" alt="gemala.dev" /></a>
+    <a href="https://instagram.com/gemala.creative"><img src="https://img.shields.io/badge/gemala.creative-EC4899?style=flat-square&logo=instagram&logoColor=white" alt="gemala.creative" /></a>
+    <a href="https://youtube.com/@tepe.grafi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="mailto:zakitripamungkas03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Status-Informatics_UMS_'22-0969da?style=flat-square" alt="Education" />
+    <img src="https://img.shields.io/badge/Scholarship-Beasiswa_Unggulan_2022-d97706?style=flat-square" alt="Beasiswa Unggulan" />
+    <img src="https://img.shields.io/badge/Exchange-PMM_3_Manado-8b5cf6?style=flat-square" alt="PMM" />
+    <img src="https://img.shields.io/badge/Location-Karanganyar%2C_Indonesia-475569?style=flat-square" alt="Location" />
+    <img src="https://komarev.com/ghpvc/?username=ZAKITRIPAMUNGKAS&style=flat-square&color=0969da&label=VIEWS" alt="Profile Views" />
+  </p>
 </div>
 
 ---
 
-### 💻 System Telemetry & Terminal Profile
+### Overview
 
-```bash
-zaki@matrix:~$ neofetch --cyber-mode
-```
+I am an **Informatics Engineering student at Universitas Muhammadiyah Surakarta** and an **Awardee of Beasiswa Unggulan Kemendikbudristek (2022)**. 
 
-```yaml
-root@zakitripamungkas:~# cat /etc/profile.json
-{
-  "operator": "Zaki Tri Pamungkas (alias: Zaki Tepe)",
-  "ventures": {
-    "tech": "gemala.dev (Software Engineering, Web Systems & Cloud Infrastructure)",
-    "creative": "gemala.creative (Multimedia Production, Live Streaming & Aerial Cinematography)"
-  },
-  "education": {
-    "major": "B.Sc in Informatics Engineering",
-    "campus": "Universitas Muhammadiyah Surakarta (Class of 2022)",
-    "scholarship": "Awardee Beasiswa Unggulan Kemendikbudristek RI 2022",
-    "student_exchange": "PMM 3 at Universitas Sam Ratulangi & IAIN Manado (2024)"
-  },
-  "specializations": [
-    "Full-Stack Web Architecture & Real-Time Cloud Applications",
-    "Creative Direction, Live Broadcast Engineering & FPV Drone Piloting",
-    "Community Leadership, Public Speaking & Tech Evangelism"
-  ],
-  "current_status": "Building next-gen digital experiences & high-impact visual media"
-}
-```
+My work focuses on the intersection of **software engineering** and **creative multimedia**. As a developer, I build scalable web platforms and real-time management systems. As a creative director, I produce high-impact visual media, live broadcast setups, and aerial cinematography.
 
 ---
 
-### 🚀 Ventures & Impact
+### Ventures
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ gemala.dev</h3>
-      <p align="center">
-        <a href="https://instagram.com/gemala.dev">
-          <img src="https://img.shields.io/badge/Instagram-@gemala.dev-00ff88?style=for-the-badge&logo=instagram&logoColor=black" />
-        </a>
-      </p>
-      <p>Tech powerhouse specializing in high-performance web development, real-time management architectures, customized digital solutions, and cloud deployments.</p>
-      <ul>
-        <li>Modern Full-Stack Applications (Laravel, React, Next.js)</li>
-        <li>Database Modeling & Scalable API Services</li>
-        <li>Enterprise Automation & Real-Time Systems</li>
-      </ul>
+      <h4>⚡ <a href="https://instagram.com/gemala.dev">gemala.dev</a></h4>
+      <p><b>Software Engineering & Cloud Solutions</b></p>
+      <p>Digital studio building modern full-stack web applications, database architectures, and custom management systems for organizations and businesses.</p>
+      <sub><b>Core:</b> Laravel • React • Next.js • REST APIs • Cloud Deployment</sub>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 gemala.creative</h3>
-      <p align="center">
-        <a href="https://instagram.com/gemala.creative">
-          <img src="https://img.shields.io/badge/Instagram-@gemala.creative-FF007F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-      </p>
-      <p>Creative studio orchestrating dynamic visual storytelling, multi-cam live broadcast systems, digital journalism, and precision FPV/aerial cinematography.</p>
-      <ul>
-        <li>Cinematic Videography & Commercial Video Editing</li>
-        <li>Studio Revamp & YouTube Live Stream Broadcasting</li>
-        <li>FPV & Aerial Drone Mapping / Cinematography</li>
-      </ul>
+      <h4>🎨 <a href="https://instagram.com/gemala.creative">gemala.creative</a></h4>
+      <p><b>Multimedia Production & Visual Branding</b></p>
+      <p>Creative agency providing commercial video editing, multi-cam live broadcast engineering, brand identity revamp, and FPV / aerial drone cinematography.</p>
+      <sub><b>Core:</b> Premiere Pro • After Effects • Live Streaming • FPV Drone</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💼 Professional Experience & Deployments
+### Experience & Key Projects
 
-- 🏢 **IT Programmer Intern** @ **Balai Besar Wilayah Sungai (BBWS) Bengawan Solo** *(May 2025 – Jun 2025)*
-  - Engineered and deployed the **Lost & Found Management Platform**, streamlining office-wide item reporting and retrieval workflows.
-- 🌐 **Web Architect & Media Strategist** @ **PDM & Pemuda Muhammadiyah Karanganyar** *(Sep 2023 – Present)*
-  - Developing a **Real-Time Member Management System & Web Database** for inter-district branches.
-  - Re-engineered digital media identity and visual branding workflows.
-- 🎥 **Media Coordinator & Broadcast Specialist** @ **BPH PMM 3 UNSRAT & Rumah Moderasi IAIN Manado** *(2024)*
-  - Supervised digital content pipelines, integrated media repositories, and directed multi-camera live streaming broadcasts.
-- 🎓 **Journalism & Digital Media Lecturer / Mentor** @ **SMA Muhammadiyah Darul Arqom** *(Oct 2024 – Feb 2025)*
-  - Mentored students in digital journalism, investigative reporting, and multimedia editing.
+- **Balai Besar Wilayah Sungai (BBWS) Bengawan Solo** — *IT Programmer Intern (2025)*
+  - Developed and deployed the **Lost & Found Management System**, streamlining reporting and item recovery workflows across the regional office.
 
----
+- **PDM & Pemuda Muhammadiyah Karanganyar** — *Web Developer & Media Lead (2023 – Present)*
+  - Engineering a **Real-Time Member Management System & Database** for district-level organization management.
+  - Re-structured social media content workflows and visual branding guidelines.
 
-### 🏆 Leadership & Key Honors
+- **BPH PMM 3 UNSRAT & Rumah Moderasi IAIN Manado** — *Media & Broadcast Coordinator (2024)*
+  - Directed live multi-camera event broadcasting on YouTube and reorganized multimedia production studio assets.
 
-- 🥇 **Awardee Beasiswa Unggulan Kemendikbudristek RI (2022)** — Prestigious National Scholarship.
-- 👥 **President / Chairman (Ketua Umum)** — PD Ikatan Pelajar Muhammadiyah (IPM) Karanganyar *(2022 – 2024)* — Overseeing 37 local school branches.
-- 🏛️ **Head of Human Resource Development (PSDM)** — BEM Faculty of Communication & Informatics UMS *(2022 – 2023)*.
-- ✈️ **Awardee Pertukaran Mahasiswa Merdeka (PMM 3)** — Manado, North Sulawesi *(2024)*.
-- 🎙️ **Official Master of Ceremonies (MC)** — Faculty Graduation Ceremonies UMS.
-- 🏅 **Finalist Duta Moderasi Beragama Kemenag RI (2021)** — Central Java Representative.
-- 💡 **Lead Developer "SEA" (Sex Education App)** — Finalist at **MYRES (Madrasah Young Researchers Supercamp) 2021**.
-- 🤖 **Top 10 National Robotic Madrasah Competition (RMC 2021)** — Line Follower Category.
+- **SMA Muhammadiyah Darul Arqom** — *Journalism & Media Instructor (2024 – 2025)*
+  - Trained students in news writing, digital journalism, and video editing fundamentals to empower the school's media team.
 
 ---
 
-### 🛠️ Arsenal & Weaponry
+### Honors & Leadership
+
+- 🥇 **Awardee Beasiswa Unggulan** — Kemendikbudristek RI (2022)
+- 👥 **Chairman (Ketua Umum)** — PD Ikatan Pelajar Muhammadiyah Karanganyar (2022 – 2024)
+- 🏛️ **Head of PSDM Department** — BEM Faculty of Communication & Informatics UMS (2022 – 2023)
+- ✈️ **Exchange Student (PMM 3)** — Universitas Sam Ratulangi & IAIN Manado (2024)
+- 🎙️ **Official Faculty MC** — Faculty of Communication & Informatics Graduation Ceremonies UMS
+- 🏅 **Finalist Duta Moderasi Beragama** — Ministry of Religious Affairs RI (Central Java Representative, 2021)
+- 💡 **Developer of "SEA" (Sex Education App)** — Finalist at MYRES (2021)
+- 🤖 **Top 10 Finalist** — National Robotic Madrasah Competition (Line Follower Category, 2021)
+
+---
+
+### Tech Stack & Tools
 
 <div align="center">
+  <p><b>Languages & Web Frameworks</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,nodejs,ts,js,html,css" alt="Languages and Frameworks" />
+  </a>
 
-#### `[ CORE_STACK_&_LANGUAGES ]`
-<br/>
-<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,ts,js,html,css" alt="Core Languages" />
+  <br/><br/>
 
-<br/><br/>
+  <p><b>Database, Cloud & Infrastructure</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,gcp,nginx,tailwind,bootstrap,git,github,vscode" alt="Database and Cloud" />
+  </a>
 
-#### `[ INFRASTRUCTURE_&_DATABASES ]`
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,gcp,nginx,tailwind,bootstrap,git,github,vscode" alt="Infra and Database" />
+  <br/><br/>
 
-<br/><br/>
-
-#### `[ CREATIVE_PRODUCTION_&_MULTIMEDIA ]`
-<br/>
-<img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,figma,blender" alt="Creative Stack" />
-
-</div>
-
----
-
-### 📈 Activity & Streak Telemetry
-
-<div align="center">
-  <a href="https://github.com/ZAKITRIPAMUNGKAS">
-    <img src="https://streak-stats.demolab.com/?user=ZAKITRIPAMUNGKAS&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <p><b>Creative Production & Design</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,figma,blender" alt="Design and Media Suite" />
   </a>
 </div>
 
 ---
 
-### 🌐 Secure Communications
-
-```
-Connecting to secure terminal node...
-[+] Status: READY_FOR_COLLABORATION
-```
-
-- 💼 **LinkedIn**: [linkedin.com/in/zakitripamungkas](https://linkedin.com/in/zakitripamungkas)
-- 📧 **Encrypted Mail**: [zakitripamungkas03@gmail.com](mailto:zakitripamungkas03@gmail.com)
-- ⚡ **Tech Inquiries**: [@gemala.dev](https://instagram.com/gemala.dev)
-- 🎨 **Creative / Media Inquiries**: [@gemala.creative](https://instagram.com/gemala.creative)
-- 📸 **Personal Dispatch**: [@zaki_tepe](https://instagram.com/zaki_tepe) | [@tepe.grafi](https://youtube.com/@tepe.grafi)
+### GitHub Activity
 
 <div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Cyber Footer" />
-  <p><code>&copy; Zaki Tri Pamungkas // Built with clean code & cyber aesthetics.</code></p>
+  <a href="https://github.com/ZAKITRIPAMUNGKAS">
+    <img src="https://streak-stats.demolab.com/?user=ZAKITRIPAMUNGKAS&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & Developed by <b>Zaki Tri Pamungkas</b> • Connect via <a href="https://linkedin.com/in/zakitripamungkas">LinkedIn</a> or <a href="mailto:zakitripamungkas03@gmail.com">Email</a></sub>
 </div>
 
